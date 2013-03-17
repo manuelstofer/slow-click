@@ -2,6 +2,7 @@
 
 var event = require('event');
 module.exports = function (options) {
+    options = options || {};
 
     var preventDefault = true,
         slow = options.slow || 200;
