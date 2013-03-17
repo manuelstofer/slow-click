@@ -1,0 +1,14 @@
+{
+  "name": "slow-click",
+  "description": "Edit linked content editables with slow clicks",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/event": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
